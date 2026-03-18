@@ -10,7 +10,7 @@ This project was developed as part of my undergraduate work, where I worked with
 
 
 
-##### **What I aimed to do**
+### **What I aimed to do**
 
 ##### 
 
@@ -22,7 +22,7 @@ This project was developed as part of my undergraduate work, where I worked with
 
 
 
-##### **Dataset**
+### **Dataset**
 
 
 
@@ -44,7 +44,7 @@ The dataset includes information related to:
 
 
 
-##### **Tools I used**
+### **Tools I used**
 
 
 
@@ -55,11 +55,11 @@ The dataset includes information related to:
 
 
 
-##### **How I approached the project**
+### **How I approached the project**
 
 
 
-###### **Data Preparation**
+##### **Data Preparation**
 
 
 
@@ -67,7 +67,7 @@ I started by importing the dataset into Power BI and cleaning it using Power Que
 
 
 
-###### **Data Modeling**
+##### **Data Modeling**
 
 ###### 
 
@@ -75,7 +75,7 @@ I created a star schema model and defined relationships between different tables
 
 
 
-###### **KPI Creation using DAX**
+##### **KPI Creation using DAX**
 
 
 
@@ -91,7 +91,7 @@ I created multiple measures such as:
 
 
 
-###### **Dashboard Development**
+##### **Dashboard Development**
 
 
 
@@ -105,7 +105,7 @@ I designed multiple dashboards using:
 
 
 
-##### **What the dashboard covers**
+#### **What the dashboard covers**
 
 
 
@@ -169,7 +169,7 @@ I designed multiple dashboards using:
 
 
 
-##### **Key things I found**
+### **Key things I found**
 
 
 
@@ -181,7 +181,7 @@ I designed multiple dashboards using:
 
 
 
-##### **Outcome**
+### **Outcome**
 
 
 
@@ -196,7 +196,7 @@ This dashboard helped in:
 
 
 
-##### **Dashboard Preview**
+### **Dashboard Preview**
 
 
 
@@ -238,7 +238,7 @@ Fulfillment \& Logistics Analysis
 
 
 
-##### **Files**
+### **Files**
 
 
 
@@ -248,7 +248,7 @@ Fulfillment \& Logistics Analysis
 
 ##### 
 
-##### **Future Improvements**
+### **Future Improvements**
 
 ##### 
 
